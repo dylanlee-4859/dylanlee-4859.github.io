@@ -137,6 +137,7 @@
     }
     .img-mobile-only,.slider-mobile-only,.video-mobile-only {
         display: block;
+        background-color: white !important;
     }
     #home-title h1 span,
     #home-slide-title span {
